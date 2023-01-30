@@ -1,2 +1,8 @@
 # Goods-in-to-Amazon
-Take a standardised goods in excel file and create Amazon Upload files from the data
+Take a standardised 'Goods in excel file' and creates a series of Amazon Upload files, specific for certain regions, currently set up for UK and USA.
+
+## To Do:
+- Add DE, FR, ES, IT, NL, PL 
+- Gui??
+
+
